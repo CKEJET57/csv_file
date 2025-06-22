@@ -10,6 +10,7 @@ from csv_processor.main import (
 )
 
 
+
 @pytest.fixture
 def sample_csv(tmp_path):
     """Фикстура создает тестовый CSV файл"""
