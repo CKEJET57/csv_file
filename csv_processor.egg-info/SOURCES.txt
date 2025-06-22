@@ -1,6 +1,7 @@
 setup.py
 csv_processor/__init__.py
-csv_processor/main.py
+csv_processor/__main__.py
+csv_processor/core.py
 csv_processor.egg-info/PKG-INFO
 csv_processor.egg-info/SOURCES.txt
 csv_processor.egg-info/dependency_links.txt
